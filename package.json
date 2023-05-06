@@ -1,0 +1,23 @@
+{
+	"name": "typescript-sort",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node --loader ts-node/esm index.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jatanassian/typescript-sorting.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jatanassian/typescript-sorting/issues"
+	},
+	"homepage": "https://github.com/jatanassian/typescript-sorting#readme",
+	"devDependencies": {
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.4"
+	}
+}

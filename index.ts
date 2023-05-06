@@ -8,9 +8,9 @@ numbers.sort();
 console.log(numbers.data);
 
 // Sort strings
-const characters = new CharactersCollection('test');
+const characters = new CharactersCollection('jWritCnmOaz');
 characters.sort();
-console.log(numbers.data);
+console.log(characters.data);
 
 // Sort linked lists
 const linkedList = new LinkedList();
